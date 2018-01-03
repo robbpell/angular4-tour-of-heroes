@@ -26,6 +26,8 @@
     <Content Include="package.json" />
     <Content Include="src\app\dashboard\dashboard.component.css" />
     <Content Include="src\app\dashboard\dashboard.component.html" />
+    <Content Include="src\app\hero-search\hero-search.component.css" />
+    <Content Include="src\app\hero-search\hero-search.component.html" />
     <Content Include="tsconfig.json" />
     <Content Include="tslint.json" />
     <Content Include="README.md" />
@@ -41,6 +43,8 @@
     <Content Include="src\tsconfig.spec.json" />
     <TypeScriptCompile Include="src\app\dashboard\dashboard.component.spec.ts" />
     <TypeScriptCompile Include="src\app\dashboard\dashboard.component.ts" />
+    <TypeScriptCompile Include="src\app\hero-search\hero-search.component.spec.ts" />
+    <TypeScriptCompile Include="src\app\hero-search\hero-search.component.ts" />
     <TypeScriptCompile Include="src\main.ts" />
     <TypeScriptCompile Include="src\polyfills.ts" />
     <TypeScriptCompile Include="src\test.ts" />
@@ -78,6 +82,7 @@
     <Folder Include="src\app" />
     <Folder Include="src\app\dashboard\" />
     <Folder Include="src\app\hero-detail" />
+    <Folder Include="src\app\hero-search\" />
     <Folder Include="src\app\heroes" />
     <Folder Include="src\app\messages" />
     <Folder Include="src\assets" />
