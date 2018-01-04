@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "tour-of-heroes", "tour-of-heroes.njsproj", "{9C9E7F4B-1BC3-47B5-945D-B727D6A9192C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rest_api", "..\rest_api\rest_api.csproj", "{F4381568-011E-48DB-AD8D-24300171B55D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9C9E7F4B-1BC3-47B5-945D-B727D6A9192C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C9E7F4B-1BC3-47B5-945D-B727D6A9192C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C9E7F4B-1BC3-47B5-945D-B727D6A9192C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4381568-011E-48DB-AD8D-24300171B55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4381568-011E-48DB-AD8D-24300171B55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4381568-011E-48DB-AD8D-24300171B55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4381568-011E-48DB-AD8D-24300171B55D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
